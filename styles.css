@@ -1,0 +1,55 @@
+
+h2{
+    font-family: cursive;
+    text-align: center;
+    font-size: 40px;
+    color: crimson;
+    font-style: bold
+}
+
+p{
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: italic, bold;
+}
+  
+a:hover{
+    background-color: aqua;
+    color:#ffffff;
+}
+
+table{
+font-family: Georgia, 'Times New Roman', Times, serif;    
+border-collapse:inherit; 
+margin: 25px 0;
+font-size: 0.9cm;
+min-width: 400px;
+border-style:inset;
+border-color:crimson;
+border-radius:5px 5px 0 0;
+overflow: hidden;
+
+}
+
+th{
+    padding: 12px 15px;
+    font-weight: bolder;
+    color:crimson;
+    background-color: maroon;
+
+}
+
+tr{
+    border-bottom: 1px solid maroon;
+    text-align: center;
+    background-color: grey;
+    }
+
+ td{
+     height: 50px;
+     color:maroon; 
+ }   
+
+tr:hover {background-color: crimson;}
+
+
